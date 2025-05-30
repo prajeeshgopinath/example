@@ -3,3 +3,4 @@
 ## Example repo
 
 ### Main instructions
+A sample web project
