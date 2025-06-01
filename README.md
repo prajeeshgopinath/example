@@ -8,3 +8,4 @@ Something to Stage
 Something in working directory
 Something to commit 
 Testing with new commit for rebase example
+3rd commit from b1
