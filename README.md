@@ -5,4 +5,5 @@
 ### Main instructions
 A sample web project
 Something to Stage
-Something in working directory 
+Something in working directory
+Something to commit 
